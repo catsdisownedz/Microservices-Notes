@@ -148,8 +148,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2c0b9e1c8bb116ea",
+  "active": "f936a936710d31dc",
   "lastOpenFiles": [
+    "backup.bat",
+    "script.sh.save",
     "Docker.md",
     "Kafka.md",
     "OOP & OOD.md",
