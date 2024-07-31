@@ -94,4 +94,6 @@ and add these:
 
 to ensure that the text files are normalized to LF on checkout and commit  and keep the special code files with the LF endings
 
+`git add` to push the new file to the repos 
 
+`git status`to ensure that the file has been committed
