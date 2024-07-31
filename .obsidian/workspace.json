@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7e2ad56ff8ab9aa5",
@@ -147,7 +148,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f936a936710d31dc",
+  "active": "2c0b9e1c8bb116ea",
   "lastOpenFiles": [
     "Docker.md",
     "Kafka.md",
