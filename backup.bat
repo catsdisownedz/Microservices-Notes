@@ -13,6 +13,6 @@ REM Commit changes with a message
 git commit -m "Automated backup: %DATE% %TIME%"
 
 REM Push to GitHub
-git push origin master
+git push origin main
 
 echo Backup complete: %DATE% %TIME%
