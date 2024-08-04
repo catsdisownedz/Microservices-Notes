@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "92314fefd957cdad",
+        "id": "15406d2f4e0b7a02",
         "type": "tabs",
         "children": [
           {
-            "id": "140621c06c6be06f",
+            "id": "351f0abfd63ae26f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Microservices-Notes/Git commands.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Microservices-Notes/Git commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Microservices-Notes/Git commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Microservices-Notes/Git commands.md"
+              }
             }
           }
         ]
@@ -139,7 +147,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "140621c06c6be06f",
+  "active": "351f0abfd63ae26f",
   "lastOpenFiles": [
     "Microservices-Notes/Git commands.md",
     "README.md",
