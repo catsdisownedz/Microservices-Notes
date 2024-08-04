@@ -116,7 +116,7 @@
 
 ### Sources
 - [OOD and patterns](https://www.geeksforgeeks.org/design-patterns-in-object-oriented-programming-oop/)
-- []()
+- [design patterns](https://refactoring.guru/design-patterns)
 
 ### Books
 
