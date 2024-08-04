@@ -11,12 +11,8 @@
             "id": "140621c06c6be06f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microservices-Notes/Git commands.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microservices-Notes/Git commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microservices-Notes/Git commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Microservices-Notes/Git commands.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,15 +139,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2c0b9e1c8bb116ea",
+  "active": "140621c06c6be06f",
   "lastOpenFiles": [
+    "Microservices-Notes/Git commands.md",
     "README.md",
     "Git commands.md",
     "Microservices-Notes/Springboot and its integrations.md",
     "Microservices-Notes/Simple NC project.md",
     "Microservices-Notes/OOP & OOD.md",
     "Microservices-Notes/Kafka.md",
-    "Microservices-Notes/Git commands.md",
     "Microservices-Notes/Docker.md",
     "Microservices-Notes/Database.md",
     "Simple NC project.md",
