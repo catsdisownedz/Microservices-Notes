@@ -1,0 +1,69 @@
+/*
+
+This CSS file will be included with your plugin, and
+available in the app when your plugin is enabled.
+
+If your plugin does not need CSS, delete this file.
+
+*/
+
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  /* 选择图标元素 */
+.rotate-icon .lucide-rotate-ccw {
+    /* 添加动画效果 */
+    animation: spin 2s infinite linear;
+}
+
+
+/* .setting_equal_width_warpper > div{
+  width: 50%;
+} */
+
+.setting_equal_width_warpper input{
+  min-width: 255px;
+}
+
+.modal_title_warpper{
+  padding: 4px;
+}
+
+.modal_content_warpper{
+  max-height: 50vh;
+  overflow: auto;
+}
+
+.modal_content_warpper ul li{
+  padding: 4px;
+}
+
+.modal_content_warpper .load_more{
+  text-align: center;
+  cursor: pointer;
+  text-decoration-line: underline;
+}
+
+.modal_content_warpper  .tips{
+  text-align: center;
+  color: gray;
+}
+
+.share_history_record_warpper{
+  display: flex;
+  gap: 4px;
+}
+
+.share_history_record_warpper > *{
+  cursor: pointer;
+}
+ 
+.is-mobile .flex-setting-item .setting-item-control{
+   display: flex;
+   flex-direction: column;
+}
+ 
+  
