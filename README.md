@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-# Microservices-Notes
-=======
-
