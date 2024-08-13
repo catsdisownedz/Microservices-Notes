@@ -21,7 +21,9 @@
 		  
 		  
      >>Instead of a class instantiating its dependencies using `new` , the dependencies are injected into the class by the framework or container using the constructor or setter methods
-     >> The `@Configuration` annotation marks the class as a class that contains bean definitions, this tells Spring that this class is used to define how the application's components should be created and managed 
+     >>
+        >> The `@Configuration` annotation marks the class as a class that contains bean definitions, this tells Spring that this class is used to define how the application's components should be created and managed 
+        >> 
 
 
 
